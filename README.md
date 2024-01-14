@@ -1,6 +1,6 @@
   <h1 align="center"?
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi 👋, I'm Mehmet Ali Er!;+I'm+Aiat+Iiazalieva!" />
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+👋!;+I'm+Mehmet+Ali+Er!" />
     </a>
    </h1>
 <h3 align="center">I am developing an application on Swift and C#</h3>
@@ -22,9 +22,9 @@
  <h2 align="center">My GitHub Stats </h2>
  <br>
  <div align=center>
-   <img width="46%" src="https://streak-stats.demolab.com/?user=BAayah&count_private=true&theme=react&border_radius=10" alt="streak stats"/>     
-   <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=BAayah&show_icons=true&theme=gruvbox" />
-   <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAayah&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
+   <img width="46%" src="https://streak-stats.demolab.com/?user=mehmetalier83&count_private=true&theme=react&border_radius=10" alt="streak stats"/>     
+   <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=mehmetalier83&show_icons=true&theme=gruvbox" />
+   <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalier83&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
      alt="" /> 
    
 <br/>
