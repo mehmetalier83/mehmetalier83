@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mehmet Ali Er</h1>
+  <h1 align="center"?
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi 👋, I'm Mehmet Ali Er!;+I'm+Aiat+Iiazalieva!" />
+    </a>
+   </h1>
 <h3 align="center">I am developing an application on Swift and C#</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mehmetalier83&label=Profile%20views&color=0e75b6&style=flat" alt="mehmetalier83" /> </p>
