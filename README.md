@@ -21,7 +21,6 @@
  <h2 align="center">My GitHub Stats </h2>
  <br>
  <div align=center>
-   <img width="46%" src="https://streak-stats.demolab.com/?user=mehmetalier83&count_private=true&theme=react&border_radius=10" alt="streak stats"/>     
    <img align="right" width="46%" src="https://github-readme-stats.vercel.app/api?username=mehmetalier83&show_icons=true&theme=gruvbox" />
    <img width="46%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetalier83&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" 
      alt="" /> 
